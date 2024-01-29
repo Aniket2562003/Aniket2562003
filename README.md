@@ -5,7 +5,7 @@ A 3rd-Year Computer Science Undergrad.
 --------------------------------------
 
 * 🌍  I'm based in New Delhi
-* ✉️  You can contact me at [aniketrawat2450@gmail.cmo](mailto:aniketrawat2450@gmail.cmo)
+* ✉️  You can contact me at [aniketrawat2450@gmail.cmo](mailto:aniketrawat2450@gmail.com)
 * 🧠  I'm learning React
 * ⚡  "365 days of Blue pride. Chelsea till I die! 💙⚽"
 
