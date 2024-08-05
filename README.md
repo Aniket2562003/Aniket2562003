@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aniket Rawat
 ====================================================================================================================================
 
-A 3rd-Year Computer Science Undergrad.
+A 4th-Year Computer Science Undergrad.
 --------------------------------------
 
 * 🌍  I'm based in New Delhi
